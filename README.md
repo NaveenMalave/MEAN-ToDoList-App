@@ -22,10 +22,10 @@ To use Node.js with Express.js to set up the server.
 - Database
 Use MongoDB to store the to-do list.
 - APIs
-GET /api/tasks - Retrieve all tasks.
-POST /api/task - Create a new task.
-PUT /api/task/:id - Update a task by ID.
-DELETE /api/task/:id - Delete a task by ID.
+- GET /api/tasks - Retrieve all tasks.
+- POST /api/task - Create a new task.
+- PUT /api/task/:id - Update a task by ID.
+- DELETE /api/task/:id - Delete a task by ID.
 - Client-side And UI
 - Framework
 Use Angular to build the frontend.
